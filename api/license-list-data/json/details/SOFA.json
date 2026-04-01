@@ -6,11 +6,11 @@
   "licenseId": "SOFA",
   "crossRef": [
     {
-      "match": "true",
+      "match": "false",
       "url": "http://www.iausofa.org/tandc.html",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2025-07-01T14:58:14Z",
+      "timestamp": "2026-03-05T17:56:58Z",
       "isWayBackLink": false,
       "order": 0
     }
