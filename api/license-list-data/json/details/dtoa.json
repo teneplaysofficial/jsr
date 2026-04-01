@@ -6,22 +6,22 @@
   "licenseId": "dtoa",
   "crossRef": [
     {
+      "match": "N/A",
+      "url": "https://sourceware.org/git/?p\u003dnewlib-cygwin.git;a\u003dblob;f\u003dnewlib/libc/stdlib/mprec.h;hb\u003dHEAD",
+      "isValid": true,
+      "isLive": false,
+      "timestamp": "2026-03-05T17:57:33Z",
+      "isWayBackLink": false,
+      "order": 1
+    },
+    {
       "match": "false",
       "url": "https://github.com/SWI-Prolog/swipl-devel/blob/master/src/os/dtoa.c",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2025-07-01T15:03:06Z",
+      "timestamp": "2026-03-05T17:57:34Z",
       "isWayBackLink": false,
       "order": 0
-    },
-    {
-      "match": "false",
-      "url": "https://sourceware.org/git/?p\u003dnewlib-cygwin.git;a\u003dblob;f\u003dnewlib/libc/stdlib/mprec.h;hb\u003dHEAD",
-      "isValid": true,
-      "isLive": true,
-      "timestamp": "2025-07-01T15:03:06Z",
-      "isWayBackLink": false,
-      "order": 1
     }
   ],
   "seeAlso": [
